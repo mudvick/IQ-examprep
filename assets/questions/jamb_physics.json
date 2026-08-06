@@ -1,0 +1,16 @@
+[
+  {
+    "question": "What is the SI unit of force?",
+    "options": [
+      "Joule",
+      "Newton",
+      "Watt",
+      "Pascal"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Force is measured in Newtons.",
+    "subject": "Physics",
+    "topic": "Mechanics",
+    "examType": "JAMB"
+  }
+]
